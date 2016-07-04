@@ -1,0 +1,1636 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"de",
+				"default_time_loading_trigger"
+			],
+			[
+				"ex",
+				"extension_templates"
+			],
+			[
+				"sec",
+				"section-masthead"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"section",
+				"section-masthead"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"sect",
+				"section-masthead"
+			],
+			[
+				"art",
+				"article-top_image"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"un",
+				"unbind"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"view",
+				"view-menu-toggle"
+			],
+			[
+				"a_",
+				"a_show_menu"
+			],
+			[
+				"page",
+				"page_active"
+			],
+			[
+				"run",
+				"run_set_menu_view"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"an",
+				"an_pf"
+			],
+			[
+				"n2",
+				"n2_aux"
+			],
+			[
+				"n1",
+				"n1_aux"
+			],
+			[
+				"windo",
+				"window_width"
+			],
+			[
+				"devi",
+				"device_platform"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"field",
+				"fieldset"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"window",
+				"window_height"
+			],
+			[
+				"anim",
+				"animate"
+			],
+			[
+				"typ",
+				"typeof"
+			],
+			[
+				"title",
+				"title-result"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"home",
+				"home-agora"
+			],
+			[
+				"remove",
+				"removeAttr"
+			],
+			[
+				"strre",
+				"str_replace"
+			],
+			[
+				"pho",
+				"phone_list"
+			],
+			[
+				"sele",
+				"select_medium"
+			],
+			[
+				"control",
+				"control-label"
+			],
+			[
+				"close",
+				"close_message"
+			],
+			[
+				"camp",
+				"campaign_id"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"getLim",
+				"getLimInicial"
+			],
+			[
+				"Ex",
+				"ExibirExtratoNaTela"
+			],
+			[
+				"De",
+				"Deposito"
+			],
+			[
+				"Num",
+				"NumConta"
+			],
+			[
+				"Calcula",
+				"CalculaLimite"
+			],
+			[
+				"sal",
+				"saldoMedio"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"auto",
+				"autocomplete"
+			],
+			[
+				"sub",
+				"subscription-plans"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"center",
+				"center-data"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"issu",
+				"issue_urls"
+			],
+			[
+				"Ca",
+				"CaviarDreams"
+			],
+			[
+				"ora",
+				"OratorStd"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"button",
+				"button_continue"
+			],
+			[
+				"fan",
+				"fancybox-inner"
+			],
+			[
+				"div",
+				"divsection"
+			],
+			[
+				"ads",
+				"ads_before"
+			],
+			[
+				"post",
+				"post_id"
+			],
+			[
+				"moun",
+				"mount_rs_folha_blog"
+			],
+			[
+				"this",
+				"this_rs_folha"
+			],
+			[
+				"file",
+				"file_blog_rs"
+			],
+			[
+				"fil",
+				"file_blog_rs"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"id",
+				"id_prev"
+			],
+			[
+				"doma",
+				"domain_name"
+			],
+			[
+				"live_ur",
+				"live_url_send"
+			],
+			[
+				"live",
+				"live_url_send"
+			],
+			[
+				"show",
+				"showreadspeaker"
+			],
+			[
+				"arti",
+				"article_url"
+			],
+			[
+				"get_req",
+				"get_request_server"
+			],
+			[
+				"aud",
+				"audioformat"
+			],
+			[
+				"cust",
+				"customer_id"
+			],
+			[
+				"read",
+				"readspeaker_button"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2038,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "exhibitors.html",
+			"settings":
+			{
+				"buffer_size": 3410,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/js/1/common/common.js",
+			"settings":
+			{
+				"buffer_size": 9946,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/dev_desenvolvedores/25/fotografia.folha.com.br/templates/head.inc.php",
+			"settings":
+			{
+				"buffer_size": 2374,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/dev_desenvolvedores/25/fotografia.folha.com.br/templates/footer.inc.php",
+			"settings":
+			{
+				"buffer_size": 2285,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/etc/fstab",
+			"settings":
+			{
+				"buffer_size": 1574,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "details-exhibitors.html",
+			"settings":
+			{
+				"buffer_size": 3438,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "includes/json/exhibitors.json",
+			"settings":
+			{
+				"buffer_size": 1511,
+				"line_ending": "Unix",
+				"name": "exhibitors( {"
+			}
+		},
+		{
+			"file": "static/css/1/common/base.css",
+			"settings":
+			{
+				"buffer_size": 4498,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "includes/header.html",
+			"settings":
+			{
+				"buffer_size": 316,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "includes/menu.html",
+			"settings":
+			{
+				"buffer_size": 1324,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 75.0,
+		"selected_items":
+		[
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ope",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"file",
+				"File: New View into File"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"UPPER",
+				"Convert Case: Upper Case"
+			],
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"live",
+				"LiveStyle: Apply Patch"
+			],
+			[
+				"live r",
+				"Package Control: Discover Packages"
+			],
+			[
+				"javascrip",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"indne",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"iden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"hml",
+				"Set Syntax: HTML"
+			],
+			[
+				"iinnde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"caps",
+				"Convert Case: Upper Case"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/staging/guia.folha.com.br/catraca_livre",
+		"/staging/guia.folha.com.br/catraca_livre.inc",
+		"/staging/classificados.folha.com.br/rodape.inc",
+		"/staging/classificados.folha.com.br/cabecalho.inc",
+		"/home/guicheffer/publicar.txt",
+		"/staging/guia.folha.com.br/virtual/common/rodape_editoria.inc",
+		"/staging/guia.folha.com.br/virtual/common/rodape.inc",
+		"/staging/guia.folha.com.br/index.shtml",
+		"/staging/guia.folha.com.br/cabecalho.inc",
+		"/staging/guia.folha.com.br/virtual/2/common/head.inc",
+		"/staging/f5.folha.com.br/virtual/2/common/footer.inc",
+		"/staging/f5.folha.com.br/virtual/2/common/assets.inc",
+		"/staging/f5.folha.com.br/virtual/2/common/header.inc",
+		"/usr/share/applications/sublime.desktop",
+		"/prod_data/aovivo1/esporte/templates/5.4/liveblog.tmpl.php",
+		"/staging/www1.folha.com.br/fsp/fac-simile/index.shtml",
+		"/prod_data/spiffy/pages/templates/fsp-homepage-menu-5_4.tmpl",
+		"/home/guicheffer/phonegap/salaodoautomovel2014/www/includes/overlay_loading.html",
+		"/home/guicheffer/phonegap/salaodoautomovel2014/www/static/js/1/common/common.js",
+		"/home/guicheffer/phonegap/salaodoautomovel2014/www/spec.html",
+		"/staging/www1.folha.com.br/fsp/virtual/5.4/common/section_navigation.inc",
+		"/home/guicheffer/Documents/publicar3.txt",
+		"/staging/www1.folha.com.br/fsp/virtual/5.4/common/article_before.inc",
+		"/dev_desenvolvedores/25/static.folha.com.br/folha/js/5.4/fsp/common.js",
+		"/dev_desenvolvedores/25/static.folha.com.br/folha/css/5.4/fsp/base.css",
+		"/staging/www1.folha.com.br/fsp/virtual/5.4/common/section-masthead-local.inc",
+		"/dev_desenvolvedores/wp/blogs.folha.com.br/wp-content/themes/blogfolha-3-0-Final/includes/assets.php",
+		"/dev_desenvolvedores/wp/blogs.folha.com.br/wp-content/themes/blogfolha-3-0-Final/header.php",
+		"/prod_data/fsp/templates/_archive/article.tmpl",
+		"/dev_desenvolvedores/25/webmaster.corp.folha.com.br/checklist/checklist.html",
+		"/home/guicheffer/Documents/publicar.txt",
+		"/staging/www1.folha.com.br/fsp/virtual/5.4/common/article_after.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/5.4/common/article-navigation.inc",
+		"/prod_data/spiffy/pages/templates/fsp-homepage-menu-5_4-for_backup.tmpl",
+		"/prod_data/spiffy/pages/templates/fsp-homepage-menu-5.tmpl",
+		"/staging/www1.folha.com.br/fsp/ilustrada/190645-bravura-indomita-de-2010-e-mais-pesado-que-o-original.shtml",
+		"/staging/www1.folha.com.br/fsp/index-homologacao.shtml",
+		"/staging/www1.folha.com.br/fsp/poder/index-homologacao.shtml",
+		"/staging/www1.folha.com.br/fsp/poder/189250-dilma-deve-flexibilizar-lei-de-licitacoes-se-for-reeleita.shtml",
+		"/prod_data/spiffy/pages/templates/fsp-fac_simile-brasil-5_4.tmpl",
+		"/prod_data/spiffy/pages/templates/fsp-fac_simile-sao_paulo-5_4.tmpl",
+		"/staging/www1.folha.com.br/fsp/fac-simile/sao-paulo/2014/10/15/index.html",
+		"/staging/www1.folha.com.br/fsp/fac-simile/nacional/2014/10/15/index.html",
+		"/staging/www1.folha.com.br/fsp/fac-simile/nacional/2014/10/15/map.inc",
+		"/staging/www1.folha.com.br/fsp/fac-simile/sao-paulo/2014/10/15/map.inc",
+		"/prod_data/spiffy/pages/templates/fsp-fac_simile-sao_paulo.tmpl",
+		"/prod_data/spiffy/pages/templates/fsp-fac_simile-vazio-5_4.tmpl",
+		"/staging/www1.folha.com.br/fsp/fac-simile/sao-paulo/2014/10/14/index.html",
+		"/staging/www1.folha.com.br/fsp/virtual/5.4/common/head.inc",
+		"/prod_data/spiffy/pages/forms/fsp-fac_simile-5_4.sform",
+		"/prod_data/fsp/templates/charge.tmpl",
+		"/staging/www1.folha.com.br/fsp/indices/index-20140923.shtml",
+		"/staging/www1.folha.com.br/fsp/poder/article_after.inc",
+		"/staging/www1.folha.com.br/fsp/poder/article_before.inc",
+		"/staging/www1.folha.com.br/fsp/poder/index_article31012014.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/5.4/common/rodape_sabado.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/5.4/common/rodape_cartum.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/lista-15102014.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/list-15102014.inc",
+		"/home/guicheffer/Downloads/publicar (1).txt",
+		"/home/guicheffer/Downloads/atualizacao-css-app.txt",
+		"/home/guicheffer/Downloads/publicar-01-10-2014.txt",
+		"/home/guicheffer/Downloads/publicar-03-10-2014-01.txt",
+		"/home/guicheffer/Downloads/publicar-08-10-2014.txt",
+		"/prod_data/spiffy/pages/templates/folha-fsp-selos-weekend-5_4.tmpl",
+		"/prod_data/spiffy/pages/templates/fsp-homepage-textos_hoje-5_4.tmpl",
+		"/prod_data/spiffy/pages/templates/folha-homepage-5_4-versao_impressa.tmpl",
+		"/home/guicheffer/Documents/publicar2.txt",
+		"/dev_data/spiffy/pages/forms/fsp-formulario_de_teste.sform",
+		"/dev_data/spiffy/pages/templates/fsp-formulario_de_teste.tmpl",
+		"/dev_desenvolvedores/25/spiffy.corp.folha.com.br/pages/scripts/config.inc.php",
+		"/dev_desenvolvedores/25/mxzypkt.corp.folha.com.br/jprado/staging/www1.folha.com.br/devbichos/teste.inc",
+		"/dev_desenvolvedores/25/spiffy.corp.folha.com.br/pages/scripts/context.inc.php",
+		"/prod_data/spiffy/pages/forms/fsp-formulario_de_teste.sform",
+		"/staging/www1.folha.com.br/fsp/fac-simile/sao-paulo/2014/10/14/map.inc",
+		"/staging/www1.folha.com.br/fsp/fac-simile/sao-paulo/2014/10/13/image.jpg",
+		"/staging/www1.folha.com.br/fsp/fac-simile/sao-paulo/2014/10/13/tetetete.jpg",
+		"/prod_data/spiffy/pages/templates/folha-homepage-5-fsp_impressa.tmpl",
+		"/prod_data/spiffy/pages/templates/folha-homepage-5-versao_digital.tmpl",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-22062013.inc",
+		"/prod_data/spiffy/pages/templates/folha-homepage-versao_impressa.tmpl",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-01012013.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-01012014.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-01022013.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-01022014.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-01032013.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-01032014.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-01042013.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-01042014.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-01052013.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-01052014.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-01062013.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-01062014.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-01072013.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-01072014.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-01082013.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-01082014.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-01092013.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-01092014.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-01102013.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-01102014.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-01112012.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-01112013.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-01122012.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-01122013.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-02012013.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-02012014.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-02022013.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-02022014.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-02032013.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-02032014.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-02042013.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-02042014.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-02052013.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-02052014.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-02062013.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-02062014.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-02072013.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-02072014.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-02082013.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-02082014.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-02092013.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-02092014.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-02102013.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-02102014.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-02112012.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-02112013.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/1/common/menu-02122012.inc"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"head",
+			"/fotografia.folha.com.b",
+			"setTim",
+			"title_page",
+			"every",
+			"Pegeout",
+			"pegeout",
+			"Peugeout",
+			"peugeout",
+			"Pegeout",
+			"container",
+			" container",
+			"\n        {\n            \"name\"",
+			"mercado",
+			".view-menu-toggle ul li a .item-exhibitors",
+			"after_includes",
+			"set_menu_view",
+			"set_platform_ratchet",
+			"$( document ).on( ",
+			"init",
+			"Citroen",
+			"mg sr",
+			".saloon .container-main .container-exhibitors .content-exhibitors .item-exhibitor",
+			"Timeout",
+			"li",
+			"\n\n\n        //",
+			"get_only_string_class",
+			"page_active",
+			"device_platform",
+			"click_touch_event",
+			"page_active",
+			"view_menu_toggle",
+			"view_menu",
+			"get_only_string_class",
+			"is_mobile",
+			"get_only_string_class",
+			"gui",
+			"a_show_menu",
+			"get_only_string_class",
+			"main_page",
+			".indice a:visited, .indice a:visited span.kicker, .indice a:visited span.title",
+			".indice.facsimile ul a",
+			"dev",
+			"staging",
+			"static.folha.uol.com.br",
+			"admin",
+			"fac-sí",
+			"25",
+			"2014101501",
+			"star",
+			".box.headlines .item.first {",
+			".content.article a {",
+			".indice.opiniao p {",
+			"d",
+			"li.",
+			"li.p",
+			"prev",
+			"charge",
+			"opiniao",
+			"_full",
+			"final_url",
+			"nbsp",
+			"url",
+			"full",
+			" for var in  vm37 vm38 vm41 vm69 vm70 vm75 vm46 vm301 vm302; do rsync -r -e ssh -rt --stats -v --exclude '_*' --exclude '.svn' --exclude '.phpdoc' /srv/dev_htdocs/live/static.folha.com.br/folha/css/5.4/especial/2014/topofmind/style.css  $var:/srv/www/htdocs/live/static.folha.com.br/folha/css/5.4/especial/2014/topofmind/style.css  -n; done",
+			"for var in  vm37 vm38 vm41 vm69 vm70 vm75 vm46 vm301 vm302; do rsync -r -e ssh -rt --stats -v --exclude '_*' --exclude '.svn' --exclude '.phpdoc' /srv/dev_htdocs/live/static.folha.com.br/folha/css/5.4/fsp/base.css  $var:/srv/www/htdocs/live/static.folha.com.br/folha/css/5.4/fsp/base.css  -n; done",
+			"n' --exclude '.phpdoc' /srv/dev_htdocs/live/static.folha.com.br/folha/css/5.4",
+			"for var in  vm37 vm38 vm41 vm69 vm70 vm75 vm46 vm301 vm302; do rsync -r -e ssh -rt --stats -v --exclude '_*' --exclude '.svn' --exclude '.phpdoc' /srv/dev_htdocs/live/static.folha.com.br/folha/css/5.4/fsp/base.css  $var:/srv/www/htdocs/live/static.folha.com.br/folha/css/5.4/fsp/base.css  -n; done",
+			"especial/2014/topofmind/style.css",
+			"25.dev.",
+			".newstex",
+			"topo",
+			";",
+			"ol.com.br/folha/fsp/images/sprite-edicao_impressa.png?2012",
+			".br/folha/fsp/images/sprite-edicao_impressa.png?201",
+			" 'http://f.i.uol.com.br/folha/fsp/images/sprite-edicao_impressa.png",
+			"'http://f.i.uol.com.br/folha/fsp/images/sprite-edicao_impressa.",
+			".png",
+			".indice {",
+			"newyorktimes",
+			"newyork",
+			"\n",
+			">",
+			"indice",
+			"sprite",
+			"newyorktimes",
+			"ombudsman",
+			"16px",
+			".indice .sectionindex",
+			"then",
+			"list",
+			"impressa",
+			"5.4",
+			"5_4",
+			"image.jpg",
+			"d",
+			"poder",
+			"$",
+			"m",
+			"ambiente",
+			"ombudmsn",
+			"ambiente",
+			">\n",
+			"ambiente",
+			"poder",
+			"$yar_today-$mon_today-$day_today",
+			"/",
+			"<p>",
+			"div",
+			"<p>",
+			"2014/09/23/",
+			"http://edicaodigital.folha.com.br/",
+			"paulo",
+			"#main_body .column .",
+			".indice.",
+			"opiniao",
+			"section-masthead { \n	",
+			"{ col",
+			" 			",
+			" > a span { \n	color",
+			"{ \n	",
+			";",
+			" { ",
+			"h3",
+			"h2",
+			"h3",
+			"role=\"",
+			"\" role=\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			";",
+			"&"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 2038,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								26
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "exhibitors.html",
+					"settings":
+					{
+						"buffer_size": 3410,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3410,
+								3410
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "static/js/1/common/common.js",
+					"settings":
+					{
+						"buffer_size": 9946,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2143,
+								2143
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 743.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/dev_desenvolvedores/25/fotografia.folha.com.br/templates/head.inc.php",
+					"settings":
+					{
+						"buffer_size": 2374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1462,
+								1462
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 540.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/dev_desenvolvedores/25/fotografia.folha.com.br/templates/footer.inc.php",
+					"settings":
+					{
+						"buffer_size": 2285,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								489,
+								489
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/etc/fstab",
+					"settings":
+					{
+						"buffer_size": 1574,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1184,
+								1184
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "details-exhibitors.html",
+					"settings":
+					{
+						"buffer_size": 3438,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2311,
+								2311
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "includes/json/exhibitors.json",
+					"settings":
+					{
+						"buffer_size": 1511,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								385,
+								385
+							]
+						],
+						"settings":
+						{
+							"auto_name": "exhibitors( {",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "static/css/1/common/base.css",
+					"settings":
+					{
+						"buffer_size": 4498,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2014,
+								2014
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1159.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "includes/header.html",
+					"settings":
+					{
+						"buffer_size": 316,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								200,
+								200
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "includes/menu.html",
+					"settings":
+					{
+						"buffer_size": 1324,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								33,
+								33
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"navi",
+				"5.4/common/section_navigation.inc"
+			],
+			[
+				"section",
+				"5.4/common/section-masthead-local.inc"
+			],
+			[
+				"arti",
+				"5.4/common/article_before.inc"
+			],
+			[
+				"head",
+				"5.4/common/head.inc"
+			],
+			[
+				"artic",
+				"5.4/common/article_before.inc"
+			],
+			[
+				"article",
+				"5.4/common/article_before.inc"
+			],
+			[
+				"article_be",
+				"5.4/common/article_before.inc"
+			],
+			[
+				"head.",
+				"5.4/common/head.inc"
+			],
+			[
+				"nav",
+				"5.4/common/section_navigation.inc"
+			],
+			[
+				"naviga",
+				"5.4/common/section_navigation.inc"
+			],
+			[
+				"-local",
+				"5.4/common/section-masthead-local-homepage.inc"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"template",
+				"scripts/templates.inc.php"
+			],
+			[
+				"urls",
+				"scripts/urls.inc.php"
+			],
+			[
+				"controller",
+				"scripts/agora_controller.class.php"
+			],
+			[
+				"sub",
+				"templates/common/subscription_prices_box.inc.php"
+			],
+			[
+				"price",
+				"templates/common/subscription_prices_box.inc.php"
+			],
+			[
+				"error",
+				"templates/folha/error.inc.php"
+			],
+			[
+				"app.j",
+				"furniture/app.js"
+			],
+			[
+				"home_",
+				"templates/agora/home_listing.inc.php"
+			],
+			[
+				"home_li",
+				"templates/folha/home_listing.inc.php"
+			],
+			[
+				"payme",
+				"templates/common/subscription_payment_box.inc.php"
+			],
+			[
+				"app.js",
+				"furniture/app.js"
+			],
+			[
+				"success",
+				"templates/folha/subscription_success.inc.php"
+			],
+			[
+				"subs",
+				"templates/common/subscription_prices_box.inc.php"
+			],
+			[
+				"foo",
+				"templates/folha/footer.inc.php"
+			],
+			[
+				"footer",
+				"templates/folha/footer.inc.php"
+			],
+			[
+				"control",
+				"scripts/enterprise_controller.class.php"
+			],
+			[
+				"bille",
+				"scripts/subscription_controller.class.php"
+			],
+			[
+				"gif",
+				"templates/folha/gift_listing.inc.php"
+			],
+			[
+				"header",
+				"templates/agora/header.inc.php"
+			],
+			[
+				"init",
+				"scripts/init.inc.php"
+			],
+			[
+				"uti",
+				"circulation/xavier/util.inc.php"
+			],
+			[
+				"relato",
+				"templates/wireframes/relatorio_padrao.inc.php"
+			],
+			[
+				"subscrview",
+				"templates/subscription_view.inc.php"
+			],
+			[
+				"issue",
+				"templates/issue_group_listing.inc.php"
+			],
+			[
+				"customer_",
+				"circulation/xavier/customer_service.class.php"
+			],
+			[
+				"issue_upda",
+				"issue_update.inc.php"
+			],
+			[
+				"product_up",
+				"aggregated_product_update.inc.php"
+			],
+			[
+				"aggreag",
+				"aggregated_product_listing.inc.php"
+			],
+			[
+				"menu",
+				"menu_items.inc.php"
+			],
+			[
+				"pre_sub",
+				"pre_subscription_view.inc.php"
+			],
+			[
+				"pre",
+				"pre_subscription_update.inc.php"
+			],
+			[
+				"order_",
+				"order_update.inc.php"
+			],
+			[
+				"conclusi",
+				"order_conclusion.inc.php"
+			],
+			[
+				"view_personal",
+				"blocks/customer_view_personal.inc.php"
+			],
+			[
+				"order_up",
+				"order_update.inc.php"
+			],
+			[
+				"orviewcon",
+				"/dev_desenvolvedores/25/xavier.corp.folha.com.br/scripts/order_view_controller.class.php"
+			],
+			[
+				"order_updat",
+				"order_helper_update.inc.php"
+			],
+			[
+				"order",
+				"order_update.inc.php"
+			],
+			[
+				"circulation_flow",
+				"subscription_circulation_flow_preview.inc.php"
+			],
+			[
+				"blocks",
+				"blocks/customer_view_address.inc.php"
+			],
+			[
+				"address",
+				"blocks/customer_edit_address.inc.php"
+			],
+			[
+				"cust",
+				"customer_update.inc.php"
+			],
+			[
+				"customer_edit",
+				"blocks/customer_edit_personal.inc.php"
+			],
+			[
+				"apps",
+				"/dev_desenvolvedores/25/xavier.corp.folha.com.br/furniture/app.css"
+			],
+			[
+				"index.",
+				"/dev_desenvolvedores/25/xavier.corp.folha.com.br/index.php"
+			],
+			[
+				"busine",
+				"issues/business_152.inc.php"
+			],
+			[
+				"cs",
+				"customer_search.inc.php"
+			],
+			[
+				"paymen",
+				"blocks/payment_edit_credit_card.inc.php"
+			],
+			[
+				"view_plan",
+				"blocks/subscription_view_plan.inc.php"
+			],
+			[
+				"charge",
+				"charge_parcel_preview.inc.php"
+			],
+			[
+				"issue_hist",
+				"issue_history_preview.inc.php"
+			],
+			[
+				"subscr",
+				"pre_subscription_update.inc.php"
+			],
+			[
+				"customer_up",
+				"customer_update.inc.php"
+			],
+			[
+				"customer",
+				"customer_listing.inc.php"
+			],
+			[
+				"custu",
+				"customer_search_extra_result.inc.php"
+			],
+			[
+				"propo",
+				"messages/proposal_email.tmpl"
+			],
+			[
+				"maili",
+				"mailing_update.inc.php"
+			],
+			[
+				"mailin",
+				"mailing_update.inc.php"
+			],
+			[
+				"ced_distri",
+				"ced_district_listing.inc.php"
+			],
+			[
+				"app",
+				"/dev_desenvolvedores/25/xavier.corp.folha.com.br/furniture/app.css"
+			],
+			[
+				"app.cs",
+				"/dev_desenvolvedores/25/xavier.corp.folha.com.br/furniture/app.css"
+			],
+			[
+				"class",
+				"/dev_desenvolvedores/25/common/classes/circulation/xavier/customer.class.php"
+			],
+			[
+				"search",
+				"/dev_desenvolvedores/25/xavier.corp.folha.com.br/templates/customer_search.inc.php"
+			],
+			[
+				"top",
+				"/staging/www1.folha.com.br/ilustrada/cartum/virtual/5.4/common/top.inc"
+			],
+			[
+				"page",
+				"page.php"
+			],
+			[
+				"f5common",
+				"/dev_desenvolvedores/25/static.folha.com.br/f5/js/1/common/common.js"
+			],
+			[
+				"readspe",
+				"/dev_desenvolvedores/25/static.folha.com.br/plugins/readspeaker/1.0/readspeaker.js"
+			],
+			[
+				"base.css",
+				"static.guiatech.com.br/boilerplate/css/1.0/common/base.css"
+			],
+			[
+				"base",
+				"static.guiatech.com.br/appolo/css/1.0/common/base.css"
+			],
+			[
+				"read",
+				"/dev_desenvolvedores/25/static.folha.com.br/plugins/readspeaker/1.0/readspeaker.js"
+			],
+			[
+				"classe",
+				"appolo.guiatech.com.br/scripts/classes.inc.php"
+			],
+			[
+				"config",
+				"appolo.guiatech.com.br/scripts/config.inc.php"
+			],
+			[
+				"util",
+				"appolo.guiatech.com.br/classes/util.class.php"
+			],
+			[
+				"appolo",
+				"appolo.guiatech.com.br/classes/appolo.class.php"
+			],
+			[
+				"dash",
+				"appolo.guiatech.com.br/templates/dashboard.inc.php"
+			],
+			[
+				"login",
+				"appolo.guiatech.com.br/templates/login.inc.php"
+			],
+			[
+				"dashboar",
+				"appolo.guiatech.com.br/templates/dashboard.inc.php"
+			],
+			[
+				"pages",
+				"appolo.guiatech.com.br/templates/pages.inc.php"
+			],
+			[
+				"appolo_gui",
+				"appolo.guiatech.com.br/classes/appolo_gui.class.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 177.0,
+	"status_bar_visible": true
+}
