@@ -1,0 +1,1657 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"ex",
+				"exhibitor_detail"
+			],
+			[
+				"show",
+				"show_details"
+			],
+			[
+				"rotate",
+				"rotate_exhibitor"
+			],
+			[
+				"conte",
+				"content_exhibitors"
+			],
+			[
+				"exhi",
+				"exhibitor_detail"
+			],
+			[
+				"detail",
+				"exhibitor-detail"
+			],
+			[
+				"ac",
+				"action_back"
+			],
+			[
+				"conta",
+				"container_main"
+			],
+			[
+				"item-",
+				"item-exhibitor"
+			],
+			[
+				"click",
+				"click_touch_event"
+			],
+			[
+				"de",
+				"default_time_loading_trigger"
+			],
+			[
+				"sec",
+				"section-masthead"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"section",
+				"section-masthead"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"sect",
+				"section-masthead"
+			],
+			[
+				"art",
+				"article-top_image"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"un",
+				"unbind"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"view",
+				"view-menu-toggle"
+			],
+			[
+				"a_",
+				"a_show_menu"
+			],
+			[
+				"page",
+				"page_active"
+			],
+			[
+				"run",
+				"run_set_menu_view"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"an",
+				"an_pf"
+			],
+			[
+				"n2",
+				"n2_aux"
+			],
+			[
+				"n1",
+				"n1_aux"
+			],
+			[
+				"windo",
+				"window_width"
+			],
+			[
+				"devi",
+				"device_platform"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"field",
+				"fieldset"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"window",
+				"window_height"
+			],
+			[
+				"anim",
+				"animate"
+			],
+			[
+				"typ",
+				"typeof"
+			],
+			[
+				"title",
+				"title-result"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"home",
+				"home-agora"
+			],
+			[
+				"remove",
+				"removeAttr"
+			],
+			[
+				"strre",
+				"str_replace"
+			],
+			[
+				"pho",
+				"phone_list"
+			],
+			[
+				"sele",
+				"select_medium"
+			],
+			[
+				"control",
+				"control-label"
+			],
+			[
+				"close",
+				"close_message"
+			],
+			[
+				"camp",
+				"campaign_id"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"getLim",
+				"getLimInicial"
+			],
+			[
+				"Ex",
+				"ExibirExtratoNaTela"
+			],
+			[
+				"De",
+				"Deposito"
+			],
+			[
+				"Num",
+				"NumConta"
+			],
+			[
+				"Calcula",
+				"CalculaLimite"
+			],
+			[
+				"sal",
+				"saldoMedio"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"auto",
+				"autocomplete"
+			],
+			[
+				"sub",
+				"subscription-plans"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"center",
+				"center-data"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"issu",
+				"issue_urls"
+			],
+			[
+				"Ca",
+				"CaviarDreams"
+			],
+			[
+				"ora",
+				"OratorStd"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"button",
+				"button_continue"
+			],
+			[
+				"fan",
+				"fancybox-inner"
+			],
+			[
+				"div",
+				"divsection"
+			],
+			[
+				"ads",
+				"ads_before"
+			],
+			[
+				"post",
+				"post_id"
+			],
+			[
+				"moun",
+				"mount_rs_folha_blog"
+			],
+			[
+				"this",
+				"this_rs_folha"
+			],
+			[
+				"file",
+				"file_blog_rs"
+			],
+			[
+				"fil",
+				"file_blog_rs"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"id",
+				"id_prev"
+			],
+			[
+				"doma",
+				"domain_name"
+			],
+			[
+				"live_ur",
+				"live_url_send"
+			],
+			[
+				"live",
+				"live_url_send"
+			],
+			[
+				"arti",
+				"article_url"
+			],
+			[
+				"get_req",
+				"get_request_server"
+			],
+			[
+				"aud",
+				"audioformat"
+			],
+			[
+				"cust",
+				"customer_id"
+			],
+			[
+				"read",
+				"readspeaker_button"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "includes/menu.html",
+			"settings":
+			{
+				"buffer_size": 1346,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config.xml",
+			"settings":
+			{
+				"buffer_size": 4426,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/dev_desenvolvedores/25/zeus.corp.folha.com.br/templates/header.inc.php",
+			"settings":
+			{
+				"buffer_size": 11766,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/dev_desenvolvedores/25/static.folha.com.br/zeus/css/1.0/common/base.css",
+			"settings":
+			{
+				"buffer_size": 115848,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/dev_desenvolvedores/25/dev_bin/xavier/templates/reports/number_protocols.inc.php",
+			"settings":
+			{
+				"buffer_size": 3656,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/dev_desenvolvedores/25/xavier.corp.folha.com.br/furniture/app.js",
+			"settings":
+			{
+				"buffer_size": 67758,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/dev_desenvolvedores/25/dev_bin/xavier/templates/reports/registered_delay.inc.php",
+			"settings":
+			{
+				"buffer_size": 6195,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/dev_desenvolvedores/25/xavier.corp.folha.com.br/furniture/app.css",
+			"settings":
+			{
+				"buffer_size": 14633,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/staging/f5.folha.com.br/home/2/common/right-column.inc",
+			"settings":
+			{
+				"buffer_size": 340,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/dev_desenvolvedores/25/xavier.corp.folha.com.br/templates/charge_parcel_preview.inc.php",
+			"settings":
+			{
+				"buffer_size": 15734,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 96.0,
+		"selected_items":
+		[
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"ope",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"file",
+				"File: New View into File"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"UPPER",
+				"Convert Case: Upper Case"
+			],
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"live",
+				"LiveStyle: Apply Patch"
+			],
+			[
+				"live r",
+				"Package Control: Discover Packages"
+			],
+			[
+				"javascrip",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"indne",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"iden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"hml",
+				"Set Syntax: HTML"
+			],
+			[
+				"iinnde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"caps",
+				"Convert Case: Upper Case"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/usr/share/applications/sublime.desktop",
+		"/staging/www1.folha.com.br/cotidiano/transito/estradas/virtual/5.4/common/distribution_blocks-right.inc",
+		"/staging/www1.folha.com.br/cotidiano/transito/estradas/virtual/5.4/common/distribution_blocks-middle.inc",
+		"/staging/www1.folha.com.br/cotidiano/transito/estradas/virtual/5.4/common/distribution_blocks-left.inc",
+		"/staging/f5.folha.com.br/rodape.inc",
+		"/staging/f5.folha.com.br/virtual/2/common/footer.inc",
+		"/staging/www1.folha.com.br/fsp/fac-simile/nacional/2014/12/19/map.inc",
+		"/staging/www1.folha.com.br/fsp/fac-simile/nacional/2014/12/19/index.html",
+		"/prod_data/spiffy/pages/templates/fsp-fac_simile-cp-5_4.tmpl",
+		"/prod_data/spiffy/pages/templates/fsp-fac_simile-cb-5_4.tmpl",
+		"/staging/www1.folha.com.br/fsp/fac-simile/images/cp-map.html",
+		"/staging/www1.folha.com.br/fsp/fac-simile/images/cb-map.html",
+		"/prod_data/spiffy/pages/templates/fsp-fac_simile-brasil-5_4.tmpl",
+		"/prod_data/spiffy/pages/templates/fsp-fac_simile-sao_paulo-5_4.tmpl",
+		"/prod_data/spiffy/pages/templates/fsp-fac_simile-sao_paulo.tmpl",
+		"/staging/f5.folha.com.br/index.html",
+		"/staging/f5.folha.com.br/virtual/2/common/additional.inc",
+		"/staging/f5.folha.com.br/virtual/2/ads/tag_manager.inc",
+		"/staging/f5.folha.com.br/home/2/common/footer.inc",
+		"/staging/f5.folha.com.br/home/2/common/publicidade-2.inc",
+		"/staging/f5.folha.com.br/home/2/common/right-column.inc",
+		"/staging/f5.folha.com.br/index.shtml",
+		"/staging/f5.folha.com.br/virtual/2/common/quarta_coluna.inc",
+		"/staging/f5.folha.com.br/virtual/2/common/caixas-extras.inc",
+		"/dev_desenvolvedores/25/xavier.corp.folha.com.br/furniture/app.jcss",
+		"/home/guicheffer/phonegap/salaodoautomovel2014/www/includes/header.html",
+		"/home/guicheffer/phonegap/salaodoautomovel2014/www/includes/json/exhibitors.json",
+		"/home/guicheffer/phonegap/salaodoautomovel2014/www/static/css/1/common/base.css",
+		"/home/guicheffer/phonegap/salaodoautomovel2014/www/static/js/1/common/common.js",
+		"/home/guicheffer/phonegap/salaodoautomovel2014/www/exhibitors.html",
+		"/home/guicheffer/phonegap/salaodoautomovel2014/www/index.html",
+		"/dev_desenvolvedores/25/xavier.corp.folha.com.br/templates/subscription_view.inc.php",
+		"/dev_desenvolvedores/25/dev_bin/xavier/templates/reports/issue_distribution_center_agent_customer.inc.php",
+		"/dev_desenvolvedores/25/dev_bin/xavier/templates/reports/payment_type_channel_sale_team.inc.php",
+		"/dev_desenvolvedores/25/dev_bin/xavier/templates/reports/city_occurrence_reason.inc.php",
+		"/dev_desenvolvedores/25/xavier.corp.folha.com.br/templates/charge_parcel_preview.inc.php",
+		"/dev_desenvolvedores/25/xavier.corp.folha.com.br/templates/movement_parcel_return_preview_detail.inc.php",
+		"/dev_desenvolvedores/25/xavier.corp.folha.com.br/templates/subscription_plan_defer_history_preview",
+		"/dev_desenvolvedores/25/dev_bin/xavier/templates/reports/complaints_delivery_distribution_center.inc.php",
+		"/groups/webmaster/lego/subeditoria/5.4/_lego.txt",
+		"/groups/webmaster/lego/especial/5.4/_lego.txt",
+		"/staging/www1.folha.com.br/ilustrada/cartum/cartunsanimados/index.shtml",
+		"/dev_desenvolvedores/25/static.folha.com.br/zeus/js/1.0/common/plugins.js",
+		"/prod_data/morpheus/templates/infograficos/html5/page.php",
+		"/dev_desenvolvedores/25/static.folha.com.br/zeus/css/1.0/common/base.css",
+		"/dev_desenvolvedores/25/zeus.corp.folha.com.br/templates/header.inc.php",
+		"/staging/www1.folha.com.br/infograficos/2014/11/117724-ranking-de-salarios-da-usp.shtml",
+		"/prod_data/morpheus/templates/infograficos/html5/page-5.4.php",
+		"/staging/www1.folha.com.br/virtual/5.4/common/assets.inc",
+		"/prod_data/morpheus/templates/cartunsanimados/cartunsanimados-latest-json.php",
+		"/staging/www1.folha.com.br/ilustrada/cartum/virtual/5.4/common/top.inc",
+		"/staging/www1.folha.com.br/ilustrada/cartum/cartunsanimados/virtual/5.4/common/head.inc",
+		"/staging/www1.folha.com.br/ilustrada/virtual/common/config.inc",
+		"/staging/www1.folha.com.br/virtual/common/config.inc",
+		"/staging/www1.folha.com.br/ilustrada/cartum/cartunsdiarios/virtual/5.4/common/head.inc",
+		"/staging/www1.folha.com.br/ilustrada/cartum/cartunssemanais/virtual/5.4/common/head.inc",
+		"/staging/www1.folha.com.br/ilustrada/cartum/virtual/common/config.inc",
+		"/staging/www1.folha.com.br/ilustrada/cartum/cartunsanimados/virtual/common/config.inc",
+		"/staging/www1.folha.com.br/static2/folha/css/5.4/ilustrada/cartum/style.css",
+		"/dev_desenvolvedores/25/static.folha.com.br/folha/css/5.4/ilustrada/cartum/style.css",
+		"/prod_data/morpheus/templates/cartunsanimados/preview/cartunsanimados.php",
+		"/prod_data/morpheus/templates/cartunsanimados/cartunsanimados.php",
+		"/staging/www1.folha.com.br/infograficos/virtual/5.4/common/infographics-list-controller.inc",
+		"/staging/www1.folha.com.br/virtual/5.4/common/toolbar.inc",
+		"/staging/www1.folha.com.br/virtual/5.4/common/toolbar-simple.inc",
+		"/staging/www1.folha.com.br/infograficos/index.shtml",
+		"/staging/www1.folha.com.br/ilustrada/cartum/cartunssemanais/index.shtml",
+		"/staging/www.folha.com.br/virtual/5.4/common/header.inc",
+		"/staging/www1.folha.com.br/static2/folha/css/5.4/home/style.css",
+		"/dev_desenvolvedores/25/static.folha.com.br/folha/css/5.4/home/style.css",
+		"/staging/www1.folha.com.br/static2/folha/css/5.4/common/base.css",
+		"/dev_desenvolvedores/25/static.folha.com.br/folha/css/5.4/common/base.css",
+		"/staging/www1.folha.com.br/ilustrada/virtual/5.4/common/head.inc",
+		"/staging/www1.folha.com.br/ilustrada/cartum/virtual/5.4/common/head.inc",
+		"/staging/www1.folha.com.br/ilustrada/cartum/cartunsanimados/config-diary.inc",
+		"/prod_data/spiffy/pages/content/folha-homepage-5_4-home.scontent",
+		"/dev_desenvolvedores/25/static.folha.com.br/folha/css/5.4/section/style.css",
+		"/staging/www1.folha.com.br/static2/folha/css/5.4/section/style.css",
+		"/prod_data/spiffy/pages/conf/folha-homepage-5_4-home.sconf",
+		"/home/guicheffer/phonegap/salaodoautomovel2014/www/static/js/plugins/zepto/zepto.js",
+		"/home/guicheffer/phonegap/salaodoautomovel2014/www/static/js/plugins/zepto/zepto-callbacks.js",
+		"/home/guicheffer/phonegap/salaodoautomovel2014/www/static/js/plugins/zepto/zepto-events.js",
+		"/home/guicheffer/phonegap/salaodoautomovel2014/www/static/js/plugins/zepto/zepto-ajax.js",
+		"/home/guicheffer/phonegap/salaodoautomovel2014/www/static/js/plugins/zepto/zepto-touch.js",
+		"/staging/www1.folha.com.br/static2/folha/js/5.4/section/common.js",
+		"/dev_desenvolvedores/25/static.folha.com.br/folha/js/5.4/section/common.js",
+		"/staging/www1.folha.com.br/virtual/5.4/common/header.inc",
+		"/staging/www1.folha.com.br/static2/folha/js/5.4/section/common",
+		"/staging/www1.folha.com.br/mercado/2014/11/1546377-governo-aumenta-abatimentos-para-reduzir-meta-de-superavit.shtml",
+		"/staging/www1.folha.com.br/virtual/5.4/common/toolbar",
+		"/dev_desenvolvedores/25/comentarios1.folha.com.br/templates/html/folhaonline/subscriber.inc.php",
+		"/home/guicheffer/phonegap/salaodoautomovel2014/www/exhibitors-details.html",
+		"/home/guicheffer/Downloads/sp2108201109.htm",
+		"/dev_desenvolvedores/25/fotografia.folha.com.br/templates/head.inc.php",
+		"/dev_desenvolvedores/25/fotografia.folha.com.br/templates/footer.inc.php",
+		"/staging/guia.folha.com.br/catraca_livre",
+		"/staging/guia.folha.com.br/catraca_livre.inc",
+		"/staging/classificados.folha.com.br/rodape.inc",
+		"/staging/classificados.folha.com.br/cabecalho.inc",
+		"/home/guicheffer/publicar.txt",
+		"/staging/guia.folha.com.br/virtual/common/rodape_editoria.inc",
+		"/staging/guia.folha.com.br/virtual/common/rodape.inc",
+		"/staging/guia.folha.com.br/index.shtml",
+		"/staging/guia.folha.com.br/cabecalho.inc",
+		"/staging/guia.folha.com.br/virtual/2/common/head.inc",
+		"/staging/f5.folha.com.br/virtual/2/common/assets.inc",
+		"/staging/f5.folha.com.br/virtual/2/common/header.inc",
+		"/prod_data/aovivo1/esporte/templates/5.4/liveblog.tmpl.php",
+		"/staging/www1.folha.com.br/fsp/fac-simile/index.shtml",
+		"/prod_data/spiffy/pages/templates/fsp-homepage-menu-5_4.tmpl",
+		"/home/guicheffer/phonegap/salaodoautomovel2014/www/includes/overlay_loading.html",
+		"/home/guicheffer/phonegap/salaodoautomovel2014/www/spec.html",
+		"/staging/www1.folha.com.br/fsp/virtual/5.4/common/section_navigation.inc",
+		"/home/guicheffer/Documents/publicar3.txt",
+		"/staging/www1.folha.com.br/fsp/virtual/5.4/common/article_before.inc",
+		"/dev_desenvolvedores/25/static.folha.com.br/folha/js/5.4/fsp/common.js",
+		"/dev_desenvolvedores/25/static.folha.com.br/folha/css/5.4/fsp/base.css",
+		"/staging/www1.folha.com.br/fsp/virtual/5.4/common/section-masthead-local.inc",
+		"/dev_desenvolvedores/wp/blogs.folha.com.br/wp-content/themes/blogfolha-3-0-Final/includes/assets.php",
+		"/dev_desenvolvedores/wp/blogs.folha.com.br/wp-content/themes/blogfolha-3-0-Final/header.php",
+		"/prod_data/fsp/templates/_archive/article.tmpl",
+		"/dev_desenvolvedores/25/webmaster.corp.folha.com.br/checklist/checklist.html",
+		"/home/guicheffer/Documents/publicar.txt",
+		"/staging/www1.folha.com.br/fsp/virtual/5.4/common/article_after.inc",
+		"/staging/www1.folha.com.br/fsp/virtual/5.4/common/article-navigation.inc",
+		"/prod_data/spiffy/pages/templates/fsp-homepage-menu-5_4-for_backup.tmpl",
+		"/prod_data/spiffy/pages/templates/fsp-homepage-menu-5.tmpl",
+		"/staging/www1.folha.com.br/fsp/ilustrada/190645-bravura-indomita-de-2010-e-mais-pesado-que-o-original.shtml"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"cp",
+			"yeeeeeear",
+			"2014",
+			"moooonth",
+			"12",
+			"19",
+			"Depósito",
+			"Visualizar",
+			"VIsualizar",
+			"Parcelas",
+			"parcels",
+			"td",
+			"td>",
+			"RESUMO",
+			"theguardian",
+			"Topo em m",
+			"###SUBSECTION_NAME###",
+			"###SUBSECTION_SLUG###",
+			"###SUBSECTION_ID###",
+			"###SECTION_NAME###",
+			"###SECTION_SLUG###",
+			"###SECTION_ID###",
+			"###SECTION_SLUG###",
+			"Topo em",
+			"###SUBSECTION_NAME###",
+			"###SUBSECTION_SLUG###",
+			"###SUBSECTION_ID###",
+			"###SECTION_NAME###",
+			"###SECTION_SLUG###",
+			"###SECTION_ID###",
+			"###SPECIAL_PAGE_SLUG###",
+			"###SPECIAL_PAGE_ID###",
+			"Topo em ma",
+			"###SPECIAL_PAGE_SLUG###",
+			"###SPECIAL_PAGE_ID### ",
+			"###SPECIAL_PAGE###",
+			"###YEAR###",
+			"###SECTION_SLUG###",
+			"###SECTION_ID###",
+			"###SECTION###",
+			"###YEAR###",
+			"topo em mat",
+			"dedede",
+			"\n",
+			"lopa",
+			"\n",
+			"dropdown",
+			"body",
+			"field-q",
+			"search",
+			"field-q",
+			"search-icon",
+			"search",
+			"field-q",
+			"Data pro",
+			"date",
+			"prev",
+			"cartunssemanais",
+			"\"",
+			"_animad",
+			"\"",
+			"{{",
+			"_animados",
+			"box",
+			"static.folha.uol.com.br",
+			"list",
+			"cartuns_animados",
+			"h1.super",
+			"font-size: 42",
+			"01",
+			".special_box.special-full .overheadline h1",
+			"15269838",
+			"http://mais.uol.com.br/view/15276129",
+			"cartun",
+			"main .sprite",
+			"main sprite",
+			"<div class=\"box\">\n											teste\n										</div>",
+			"span4",
+			".main-headline.overheadline h1.super",
+			".special_box.special-full .overheadline h1.super",
+			"){",
+			"!===",
+			" ){",
+			"function ( ",
+			"function(",
+			"\" ) {",
+			"} ;",
+			"f (typeof console === \"undefined\" ",
+			"if ( ",
+			"if(",
+			"==",
+			"include",
+			"data-include",
+			"\"",
+			"device_platform",
+			"15px",
+			"0 && orientation != 180",
+			"config",
+			"            config: function(){\n",
+			".exhibitor-detail",
+			"{ ",
+			"more_option",
+			"facebook",
+			"unstyled",
+			"select_share",
+			"moder",
+			"facebook-small",
+			".section-sprite, .wideVideoPlayer .video-player .icon-video-play",
+			".section-sprite",
+			".section-sprite, .wideVideoPlayer .video-player .icon-video-play",
+			"facebook-small",
+			"1",
+			"code",
+			"success",
+			"imgs",
+			"search_specs_exhibitor",
+			"\"local\": \"\"",
+			"\"name\": \"Ford\" ,",
+			"\"img\":",
+			"img\": \"img/ford.png\"",
+			"Ford",
+			"Peugeot",
+			"hide_details",
+			"exhibitors",
+			"hide_details",
+			"$( '.exhibitor-detail' )",
+			"$( '.content-exhibitors' )",
+			"content_exhibitors"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"The Guardian",
+			"the_guardian",
+			"theguardian",
+			"Mundo",
+			"mundo",
+			"The Guardian",
+			"the_guardian",
+			"theguardian",
+			"mundo",
+			"Mundo",
+			"mundo",
+			"the_guardian",
+			"theguardian",
+			"the_guardian",
+			"theguardian",
+			"The Guardian",
+			"2014",
+			"mundo",
+			"Mundo",
+			"mundo",
+			";",
+			"&"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "includes/menu.html",
+					"settings":
+					{
+						"buffer_size": 1346,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								339,
+								339
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "config.xml",
+					"settings":
+					{
+						"buffer_size": 4426,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								432,
+								432
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/dev_desenvolvedores/25/zeus.corp.folha.com.br/templates/header.inc.php",
+					"settings":
+					{
+						"buffer_size": 11766,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"spell_check": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4127.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/dev_desenvolvedores/25/static.folha.com.br/zeus/css/1.0/common/base.css",
+					"settings":
+					{
+						"buffer_size": 115848,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 4347.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/dev_desenvolvedores/25/dev_bin/xavier/templates/reports/number_protocols.inc.php",
+					"settings":
+					{
+						"buffer_size": 3656,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								817,
+								817
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/dev_desenvolvedores/25/xavier.corp.folha.com.br/furniture/app.js",
+					"settings":
+					{
+						"buffer_size": 67758,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/dev_desenvolvedores/25/dev_bin/xavier/templates/reports/registered_delay.inc.php",
+					"settings":
+					{
+						"buffer_size": 6195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/dev_desenvolvedores/25/xavier.corp.folha.com.br/furniture/app.css",
+					"settings":
+					{
+						"buffer_size": 14633,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2337,
+								2337
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/staging/f5.folha.com.br/home/2/common/right-column.inc",
+					"settings":
+					{
+						"buffer_size": 340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/dev_desenvolvedores/25/xavier.corp.folha.com.br/templates/charge_parcel_preview.inc.php",
+					"settings":
+					{
+						"buffer_size": 15734,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12776,
+								12776
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4808.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"xml",
+				"config.xml"
+			],
+			[
+				"menu",
+				"includes/menu.html"
+			],
+			[
+				"navi",
+				"5.4/common/section_navigation.inc"
+			],
+			[
+				"section",
+				"5.4/common/section-masthead-local.inc"
+			],
+			[
+				"arti",
+				"5.4/common/article_before.inc"
+			],
+			[
+				"head",
+				"5.4/common/head.inc"
+			],
+			[
+				"artic",
+				"5.4/common/article_before.inc"
+			],
+			[
+				"article",
+				"5.4/common/article_before.inc"
+			],
+			[
+				"article_be",
+				"5.4/common/article_before.inc"
+			],
+			[
+				"head.",
+				"5.4/common/head.inc"
+			],
+			[
+				"nav",
+				"5.4/common/section_navigation.inc"
+			],
+			[
+				"naviga",
+				"5.4/common/section_navigation.inc"
+			],
+			[
+				"-local",
+				"5.4/common/section-masthead-local-homepage.inc"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"template",
+				"scripts/templates.inc.php"
+			],
+			[
+				"urls",
+				"scripts/urls.inc.php"
+			],
+			[
+				"controller",
+				"scripts/agora_controller.class.php"
+			],
+			[
+				"sub",
+				"templates/common/subscription_prices_box.inc.php"
+			],
+			[
+				"price",
+				"templates/common/subscription_prices_box.inc.php"
+			],
+			[
+				"error",
+				"templates/folha/error.inc.php"
+			],
+			[
+				"app.j",
+				"furniture/app.js"
+			],
+			[
+				"home_",
+				"templates/agora/home_listing.inc.php"
+			],
+			[
+				"home_li",
+				"templates/folha/home_listing.inc.php"
+			],
+			[
+				"payme",
+				"templates/common/subscription_payment_box.inc.php"
+			],
+			[
+				"app.js",
+				"furniture/app.js"
+			],
+			[
+				"success",
+				"templates/folha/subscription_success.inc.php"
+			],
+			[
+				"subs",
+				"templates/common/subscription_prices_box.inc.php"
+			],
+			[
+				"foo",
+				"templates/folha/footer.inc.php"
+			],
+			[
+				"footer",
+				"templates/folha/footer.inc.php"
+			],
+			[
+				"control",
+				"scripts/enterprise_controller.class.php"
+			],
+			[
+				"bille",
+				"scripts/subscription_controller.class.php"
+			],
+			[
+				"gif",
+				"templates/folha/gift_listing.inc.php"
+			],
+			[
+				"header",
+				"templates/agora/header.inc.php"
+			],
+			[
+				"init",
+				"scripts/init.inc.php"
+			],
+			[
+				"uti",
+				"circulation/xavier/util.inc.php"
+			],
+			[
+				"relato",
+				"templates/wireframes/relatorio_padrao.inc.php"
+			],
+			[
+				"subscrview",
+				"templates/subscription_view.inc.php"
+			],
+			[
+				"issue",
+				"templates/issue_group_listing.inc.php"
+			],
+			[
+				"customer_",
+				"circulation/xavier/customer_service.class.php"
+			],
+			[
+				"issue_upda",
+				"issue_update.inc.php"
+			],
+			[
+				"product_up",
+				"aggregated_product_update.inc.php"
+			],
+			[
+				"aggreag",
+				"aggregated_product_listing.inc.php"
+			],
+			[
+				"pre_sub",
+				"pre_subscription_view.inc.php"
+			],
+			[
+				"pre",
+				"pre_subscription_update.inc.php"
+			],
+			[
+				"order_",
+				"order_update.inc.php"
+			],
+			[
+				"conclusi",
+				"order_conclusion.inc.php"
+			],
+			[
+				"view_personal",
+				"blocks/customer_view_personal.inc.php"
+			],
+			[
+				"order_up",
+				"order_update.inc.php"
+			],
+			[
+				"orviewcon",
+				"/dev_desenvolvedores/25/xavier.corp.folha.com.br/scripts/order_view_controller.class.php"
+			],
+			[
+				"order_updat",
+				"order_helper_update.inc.php"
+			],
+			[
+				"order",
+				"order_update.inc.php"
+			],
+			[
+				"circulation_flow",
+				"subscription_circulation_flow_preview.inc.php"
+			],
+			[
+				"blocks",
+				"blocks/customer_view_address.inc.php"
+			],
+			[
+				"address",
+				"blocks/customer_edit_address.inc.php"
+			],
+			[
+				"cust",
+				"customer_update.inc.php"
+			],
+			[
+				"customer_edit",
+				"blocks/customer_edit_personal.inc.php"
+			],
+			[
+				"apps",
+				"/dev_desenvolvedores/25/xavier.corp.folha.com.br/furniture/app.css"
+			],
+			[
+				"index.",
+				"/dev_desenvolvedores/25/xavier.corp.folha.com.br/index.php"
+			],
+			[
+				"busine",
+				"issues/business_152.inc.php"
+			],
+			[
+				"cs",
+				"customer_search.inc.php"
+			],
+			[
+				"paymen",
+				"blocks/payment_edit_credit_card.inc.php"
+			],
+			[
+				"view_plan",
+				"blocks/subscription_view_plan.inc.php"
+			],
+			[
+				"charge",
+				"charge_parcel_preview.inc.php"
+			],
+			[
+				"issue_hist",
+				"issue_history_preview.inc.php"
+			],
+			[
+				"subscr",
+				"pre_subscription_update.inc.php"
+			],
+			[
+				"customer_up",
+				"customer_update.inc.php"
+			],
+			[
+				"customer",
+				"customer_listing.inc.php"
+			],
+			[
+				"custu",
+				"customer_search_extra_result.inc.php"
+			],
+			[
+				"propo",
+				"messages/proposal_email.tmpl"
+			],
+			[
+				"maili",
+				"mailing_update.inc.php"
+			],
+			[
+				"mailin",
+				"mailing_update.inc.php"
+			],
+			[
+				"ced_distri",
+				"ced_district_listing.inc.php"
+			],
+			[
+				"app",
+				"/dev_desenvolvedores/25/xavier.corp.folha.com.br/furniture/app.css"
+			],
+			[
+				"app.cs",
+				"/dev_desenvolvedores/25/xavier.corp.folha.com.br/furniture/app.css"
+			],
+			[
+				"class",
+				"/dev_desenvolvedores/25/common/classes/circulation/xavier/customer.class.php"
+			],
+			[
+				"search",
+				"/dev_desenvolvedores/25/xavier.corp.folha.com.br/templates/customer_search.inc.php"
+			],
+			[
+				"top",
+				"/staging/www1.folha.com.br/ilustrada/cartum/virtual/5.4/common/top.inc"
+			],
+			[
+				"page",
+				"page.php"
+			],
+			[
+				"f5common",
+				"/dev_desenvolvedores/25/static.folha.com.br/f5/js/1/common/common.js"
+			],
+			[
+				"readspe",
+				"/dev_desenvolvedores/25/static.folha.com.br/plugins/readspeaker/1.0/readspeaker.js"
+			],
+			[
+				"base.css",
+				"static.guiatech.com.br/boilerplate/css/1.0/common/base.css"
+			],
+			[
+				"base",
+				"static.guiatech.com.br/appolo/css/1.0/common/base.css"
+			],
+			[
+				"read",
+				"/dev_desenvolvedores/25/static.folha.com.br/plugins/readspeaker/1.0/readspeaker.js"
+			],
+			[
+				"classe",
+				"appolo.guiatech.com.br/scripts/classes.inc.php"
+			],
+			[
+				"config",
+				"appolo.guiatech.com.br/scripts/config.inc.php"
+			],
+			[
+				"util",
+				"appolo.guiatech.com.br/classes/util.class.php"
+			],
+			[
+				"appolo",
+				"appolo.guiatech.com.br/classes/appolo.class.php"
+			],
+			[
+				"dash",
+				"appolo.guiatech.com.br/templates/dashboard.inc.php"
+			],
+			[
+				"login",
+				"appolo.guiatech.com.br/templates/login.inc.php"
+			],
+			[
+				"dashboar",
+				"appolo.guiatech.com.br/templates/dashboard.inc.php"
+			],
+			[
+				"pages",
+				"appolo.guiatech.com.br/templates/pages.inc.php"
+			],
+			[
+				"appolo_gui",
+				"appolo.guiatech.com.br/classes/appolo_gui.class.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 177.0,
+	"status_bar_visible": true
+}

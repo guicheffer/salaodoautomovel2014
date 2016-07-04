@@ -1,0 +1,271 @@
+/**
+ * SalaoDoAutomovel css
+ * http://folha.com
+ * Copyright 2014, Folha de S.Paulo
+ * Author: João Guilherme C. Prado
+ * 
+ * Salão do Automóvel 2014 - Folha (css)
+ *
+ * Date: Tue Aug 22 2014 10:31:27 GMT-0300
+*/
+
+
+/*================================GENERAL================================*/
+* {
+	outline: none;
+}
+html {
+	-webkit-user-select: none;
+	-webkit-touch-callout: none;
+	overflow: auto;
+}
+body {
+	background: #121314;
+	color: #FFF;
+	position: relative;
+	margin-bottom: -10px;
+	overflow-x: hidden;
+}
+body a {
+	color: #FFF;
+}
+body a:active {
+	color: #333;
+}
+.ui-loader-default{
+	display: none;
+}
+.main-page{
+	position: relative;
+}
+.main-page, .bar-content {
+	-webkit-transition: left .15s ease-in, box-shadow .2s linear;
+}
+.hide-later{
+	-webkit-transition: opacity .1s ease-in;
+}
+.sprite{
+	background: url( '/img/sprite.png' ) ;
+	text-indent: -9999px;
+	display: inline-block;
+}
+
+
+/*================================"CONFIGS/removed"================================*/
+.overlay{
+	background: #000;
+	opacity: 0.8;
+	z-index: 999;
+	top: 0px;
+	position: absolute;
+	display: none;
+}
+.overlay .loading {
+	background: url( '/img/loading-alternate.gif' ) ;
+	background-size: 100% 100%;
+	width: 15px;
+	height: 10px;
+	text-indent: -9999px;
+	display: block;
+	position: relative;
+	margin: 0 auto;
+}
+
+
+
+/*================================SCREENS================================*/
+
+/*general*/
+.saloon .bar-content {
+	background: #1A1A1B;
+	height: 60px;
+	border-bottom: 2px solid #2E2F33;
+	padding-top: 8px;
+}
+.saloon .bar-content .title {
+	color: #FFF;
+	font-size: 15px;
+}
+.saloon .bar-content .icon:active {
+	color: #333;
+}
+.saloon .container-general {
+	clear: both;
+}
+
+/*exhibitors*/
+.saloon .container-main .container-exhibitors {
+	padding-top: 65px;
+	padding-bottom: 15px;
+}
+.saloon .container-main .container-exhibitors .content-exhibitors {
+	display: block;
+	padding: 0;
+	width: 100%;
+}
+.saloon .container-main .container-exhibitors .content-exhibitors .item-exhibitor {
+	display: inline-block;
+	width: 32%;
+	height: 90px;
+	background: #1C1D1E;
+	text-align: center;
+	font-size: 13px;
+	margin-left: 1.8%;
+	margin-top: 7px;
+	border-radius: 2px;
+	cursor: pointer;
+}
+.saloon .container-main .container-exhibitors .content-exhibitors .item-exhibitor:active {
+	background: #333;
+	color: #FFF;
+}
+.saloon .container-main .container-exhibitors .content-exhibitors .item-exhibitor img {
+	background-size: 100% 100%;
+	width: auto;
+	height: auto;
+	margin: 10px auto 5px auto;
+	display: block;
+}
+.saloon .container-main .container-exhibitors .content-exhibitors .item-exhibitor.first-inline {
+	margin-left: 0;
+}
+.saloon .container-main .container-exhibitors .content-exhibitors .item-exhibitor.first-top {
+	margin-top: 0;
+}
+.saloon .container-main .container-exhibitors .exhibitor-detail {
+	display: none;
+}
+.saloon .container-main .container-exhibitors .exhibitor-detail .rotate {
+	width: 110%;
+	margin: -15px -10px
+}
+.saloon .container-main .container-exhibitors .exhibitor-detail .rotate img {
+	width: 100%;
+}
+.saloon .container-main .container-exhibitors .exhibitor-detail .rotate .m-scooch-inner {
+	position: initial;
+}
+.saloon .container-main .container-exhibitors .exhibitor-detail .rotate .m-scooch-controls {
+	margin-top: -45px;
+	padding-bottom: 15px;
+	position: relative;
+}
+.saloon .container-main .container-exhibitors .exhibitor-detail .rotate .m-scooch-bulleted a {
+	padding: 5px;
+	margin: 0 7px;
+}
+
+
+/*others (menu, bar-content, etc)*/
+.main-page.view-menu{
+	left: 270px;
+	box-shadow: -2px -20px 20px #000;
+	border-left: 2px solid #18191a;
+}
+.main-page.view-menu .bar-content {
+	left: 270px;
+}
+.main-page.view-menu .bar-content .hide-later {
+	opacity: 0;
+}
+.main-page.view-menu .bar-content .pull-left {
+	margin-left: 5px;
+}
+.view-menu-toggle {
+	position: fixed;
+	left: 4px;
+	padding: 10px;
+	float: left;
+	-webkit-transition: left .1s ease-in
+}
+.view-menu-toggle.hidden {
+	left: -210px;
+}
+.view-menu-toggle ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	position: absolute;
+	width: 14em;
+}
+.view-menu-toggle ul li {
+	margin: 10% 0;
+	height: 42px;
+}
+.view-menu-toggle ul li a .sprite {
+	width: 17.7%;
+	height: 2.5em;
+	background-size: 1400%;
+	float: left;
+	margin-left: 20px;
+}
+.view-menu-toggle ul li a .text {
+	display: inline-block;
+	margin: 10px 0 0 10px;
+	font-size: 110%;
+}
+.view-menu-toggle ul li a .item-news {
+	background-position: -654px -402px;
+}
+.view-menu-toggle ul li a .item-exhibitors {
+	background-position: -721px -402px;
+}
+.view-menu-toggle ul li a .item-informations {
+	background-position: -787px -402px;
+}
+.view-menu-toggle ul li a .item-schedule {
+	background-position: -853px -402px;
+}
+.view-menu-toggle ul li a .item-selected {
+	border-left: 4px solid #00A99D;
+	float: left;
+	margin-left: -73px;
+	position: absolute;
+	width: 5px;
+	height: 42px;
+	border-radius: 2px;
+	display: none;
+}
+.view-menu-toggle ul li a .item-selected.shown {
+	display: inline-block;
+}
+.view-menu-toggle ul li a:active .item-selected {
+	display: inline-block;
+	border-left: 4px solid #00A99D;
+}
+.view-menu-toggle ul li a:active span {
+	opacity: 0.6;
+}
+
+
+
+/*================================MEDIA QUERIEs================================*/
+@media only screen and ( min-device-width: 320px) and (orientation : landscape){
+	/*general*/
+	.saloon .bar-content { 
+		height: 40px; 
+	}
+	.title { 
+		line-height: 25px; 
+	}
+	.bar .icon { 
+		padding-top: 5px; font-size: 15px; 
+	}
+
+	/*exhibitor*/
+	.saloon .container-main .container-exhibitors { 
+		padding-top: 45px; 
+	}
+	.saloon .container-main .container-exhibitors .exhibitor-detail .rotate .m-scooch-inner {
+		/*height: 320px;*/
+	}
+}
+
+/*================================IOS================================*/
+
+
+
+
+/*================================ANDROID================================*/
+
+
